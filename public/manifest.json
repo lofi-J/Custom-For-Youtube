@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "React Chrome Extension",
+  "name": "Custom For Youtube",
   "version": "1.0.0",
-  "description": "A simple React app as a Chrome extension",
+  "description": "Enhance your YouTube experience with custom skins and powerful new features. Transform the way you watch and interact with videos!",
   "action": {
     "default_popup": "index.html"
   },

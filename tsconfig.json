@@ -1,5 +1,6 @@
 {
   "files": [],
+  "types": ["chrome"],
   "references": [
     { "path": "./tsconfig.app.json" },
     { "path": "./tsconfig.node.json" }
